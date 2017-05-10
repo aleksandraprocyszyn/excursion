@@ -2,17 +2,17 @@ html {
   background-color: black;
 }
 
-body{
+body {
   text-align: center;
   font-family: Verdana;
 }
 
-h1{
+h1 {
   color: white;
   font-size: 50px;
 }
 
-h2{
+h2 {
   color: white;
   font-size: 42px;
   font-weight: 300;
@@ -21,4 +21,13 @@ h2{
 .cta {
   color: aquamarine;
   font-size: 16px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+.footer {
+  text-align: right;
 }
